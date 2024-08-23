@@ -3,6 +3,7 @@ import styles from "./ProjectsStyles.module.css";
 import musicplayer from "../../assets/musicplayer.png";
 import vibe from "../../assets/vibe.jpg";
 import ProjectCard from "../../common/ProjectCard";
+import lionelmessi from "../../assets/lionelmessi.png";
 
 function Projects() {
   return (
@@ -22,10 +23,10 @@ function Projects() {
           p="Chat App"
         />
         <ProjectCard
-          src={vibe}
+          src={lionelmessi}
           link="https://main--debayan10designs.netlify.app"
           h3="My Designs"
-          p="All the designs i have made"
+          p="All the designs I have made"
         />
       </div>
     </section>
