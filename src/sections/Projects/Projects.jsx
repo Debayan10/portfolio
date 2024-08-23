@@ -21,12 +21,12 @@ function Projects() {
           h3="Vibe"
           p="Chat App"
         />
-        {/* <ProjectCard
+        <ProjectCard
           src={vibe}
-          link="https://github.com/Debayan10/Vibe"
-          h3="Vibe"
-          p="Chat App"
-        /> */}
+          link="https://main--debayan10designs.netlify.app"
+          h3="My Designs"
+          p="All the designs i have made"
+        />
       </div>
     </section>
   );
