@@ -51,7 +51,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
           Hi, I'm a software engineer specializing in web and Android
-          development. I create engaging user experiences for the web and build
+          development. I create engaging user experiences for the websites and build
           innovative mobile apps for Android devices. I'm passionate about
           technology and love the challenge of bringing ideas to life through
           code.
